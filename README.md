@@ -1,18 +1,14 @@
 # Hello! I'm Matheus Cavalcante Carneiro 👋
 
-🎓 *Systems Analysis and Development Student*  
+🎓 **Systems Analysis and Development Student**  
 **Institution:** IFCE - Boa Viagem Campus  
 
 ---
 
-### 🚀 Currently Working On:
-- **Mobile Apps** with *Ionic*
-- **Development** in *C*
-
----
-
-### 💻 Technologies & Tools:
+### 💻 Technologies & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,18 +20,18 @@
 
 ---
 
-### 📚 Featured Projects:
-- [**Pharmacy CRUD**](https://github.com/MatheusCarneir0/App-Farmacia-Ionic)  
-  *A CRUD system developed with Ionic 3.*
-  
-- [**CIDTS Website Project**](https://github.com/MatheusCarneir0/Projeto-Site-CIDTS)  
-  *Website development for the Center for Innovation and Diffusion of Technologies for the Semi-Arid Region.*
+### 📚 Featured Projects
+- **[Pharmacy CRUD](https://github.com/MatheusCarneir0/App-Farmacia-Ionic)**  
+  A CRUD system developed with Ionic 3.
+
+- **[CIDTS Website Project](https://github.com/MatheusCarneir0/Projeto-Site-CIDTS)**  
+  Website development for the Center for Innovation and Diffusion of Technologies for the Semi-Arid Region.
 
 ---
 
-### 🔗 Connect With Me:
+### 🔗 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/matheus-cavalcante-carneiro-443008308/">
+  <a href="https://www.linkedin.com/in/matheus-cavalcante-carneiro-443008308/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:matheus.carneiro07@aluno.ifce.edu.br">
@@ -44,3 +40,10 @@
 </p>
 
 ---
+
+### 📈 GitHub Stats
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusCarneir0&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+---
+
+Feel free to reach out if you'd like to collaborate on exciting projects!
