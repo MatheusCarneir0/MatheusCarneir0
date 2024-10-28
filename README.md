@@ -1,7 +1,7 @@
 # Hello! I'm Matheus Cavalcante Carneiro 👋
 
 🎓 **Systems Analysis and Development Student** at IFCE - Boa Viagem Campus  
-💻 Passionate about web development, particularly using Python and Django.
+💻 Interested in development with a focus on Python and Django.
 
 ---
 
