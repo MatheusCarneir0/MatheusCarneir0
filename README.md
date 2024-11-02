@@ -5,6 +5,11 @@
 
 ---
 
+| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CassioJhones&theme=darcula" height="150em"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&hide=javascript,html,css&layout=compact&theme=darcula" height="150em"/> |
+| ----------- | ----------- |
+
+---
+
 ### 💻 Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -17,14 +22,3 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-cavalcante-carneiro-443008308/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:matheus.carneiro07@aluno.ifce.edu.br">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
